@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .fold3-polygon {
+  clip-path: polygon(0% 22.5%, 100% 38.25%, 100% 100%, 0% 82.75%);
+  border-radius: 40px 40px 40px 40px;
+} */
+
+.shape {
+  background-image: linear-gradient(
+      0deg,
+      rgb(74, 222, 128, 0.6),
+      rgb(74, 222, 128, 0.6)
+    ),
+    url('./assets/play.jpg');
+  background-repeat: no-repeat;
+  background-position: 50% 0%;
+  background-size: cover;
+}
+
+.shape::before {
+  content: '';
+  display: block;
+  height: 100%;
+  width: 100%;
+  background-color: transparent;
+  border-radius: 3.8rem;
+  border: 1px solid rgb(74 222 128);
+  position: absolute;
+  top: -35px;
+  left: -35px;
+  border-bottom: none;
+}
+.custom-background {
+  background-image: url('./assets/play.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.custom-gradient {
+  background-image: linear-gradient(
+    295deg,
+    #a0c717 0%,
+    #6a7d27 100%,
+    transparent 100%
+  );
+  opacity: 0.8; /* Adjust opacity as needed */
+}
