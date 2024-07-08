@@ -44,7 +44,7 @@ function Fold3() {
 
               <p className="text-right w-44 absolute left-[35%] max-md:left-[45%] top-[55%] leading-4 text-sm font-semibold text-gray-800 -skew-y-6">
                 Dr. John Hahn <br />
-                DPM, ND, America’s
+                DPM, ND, America's
                 <br />
                 Joint Doctor
               </p>
