@@ -3,7 +3,7 @@ function Footer() {
     <footer>
       <div className="bg-[#1d204f] flex max-md:flex-wrap items-center gap-8 px-[10rem] py-8">
         <div className="flex-[14rem]">
-          <img src="\src\assets\sn-logo_vitaminD3.webp" className="w-60" />
+          <img src="\sn-logo_vitaminD3.webp" className="w-60" />
           <p className="text-white text-xs">
             These statements have not been evaluated by the Food and Drug
             Administration. This product is not intended to diagnose, treat,

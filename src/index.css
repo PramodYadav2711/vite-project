@@ -13,7 +13,7 @@
       rgb(74, 222, 128, 0.6),
       rgb(74, 222, 128, 0.6)
     ),
-    url('./assets/play.jpg');
+    url('/play.jpg');
   background-repeat: no-repeat;
   background-position: 50% 0%;
   background-size: cover;
@@ -33,7 +33,7 @@
   border-bottom: none;
 }
 .custom-background {
-  background-image: url('./assets/play.jpg');
+  background-image: url('/play.jpg');
   background-size: cover;
   background-position: center;
 }

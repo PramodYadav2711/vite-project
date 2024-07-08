@@ -32,7 +32,7 @@ function Fold3() {
 
           <div className="shape h-96 w-[50vw]  rounded-[3.5rem] skew-y-6 absolute -right-40 top-20 max-md:left-12 max-md:w-[100vw]">
             <img
-              src="src/assets/doctor.png"
+              src="/doctor.png"
               alt="Dr. John Hahn"
               className="absolute h-[20rem] mx-auto bottom-0"
             />

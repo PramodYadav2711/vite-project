@@ -38,7 +38,7 @@ function Fold1() {
         <div className="absolute right-[-12rem] bottom-32 top-[-8rem] inset-0 custom-background"></div>
         <div className="absolute right-[-12rem] bottom-32 top-[-8rem] inset-0 custom-gradient"></div>
         <div className="absolute left-[-8rem] top-28">
-          <img src="src/assets/hero.png" />
+          <img src="/hero.png" />
         </div>
         <div className="relative z-10 flex justify-center items-center h-full w-full">
           <Button variant="play" />

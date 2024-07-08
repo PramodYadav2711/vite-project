@@ -65,7 +65,7 @@ function Fold4() {
               />
             </div>
             <div className="row-span-2  flex items-center justify-center">
-              <img src="/src/assets/bottle.png" className="h-96" />
+              <img src="/bottle.png" className="h-96" />
             </div>
             <div className="">
               <Showcase
